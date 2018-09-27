@@ -1,0 +1,140 @@
+ion-title{
+  position: relative;
+  background-color: #8E44AD;
+}
+ion-title img{
+  float: left;
+  width: 40%;
+}
+
+.content-md{
+  background-color: #FFC500;
+}
+
+.toolbar-title-md{
+  padding: 0;
+}
+
+.home_button{
+  float: right;
+  background-color: #8E44AD;
+  color: #FFC500;
+  margin-top: 4%;
+  margin-bottom: auto;
+  padding-right: 4%;
+}
+
+ion-card-content{
+  width: 80%;
+  height: auto;
+  margin-top: 4%;
+  padding: auto;
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px double black;
+  border-radius: 9px;
+  background-color: #f4f4f4;
+  position: relative;
+}
+
+.item, .item-block{
+  width: 70%;
+  float: right;
+  background-color: #f4f4f4;
+  margin-top: -13%;
+  height: 30px;
+}
+
+ion-card{
+  position: relative;
+  background-color: #f4f4f4;
+  width: 70%;
+  border: 1px double #222222;
+  border-radius: 10px;
+}
+
+ion-card img{
+  padding-bottom: 10px;
+  max-width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.adding{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #8E44AD;
+  color: #f4f4f4;
+  font-weight: bold;
+  font-size: 15px;
+  width: 70%;
+  height: 35px;
+  border-radius: 7px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.realprice{
+  margin: 15px 5px 0 0;
+  font-weight: bold;
+}
+
+.about{
+  margin-left: 8%;
+  text-align: left;
+  font-family: Tidesans;
+  font-size: 10px;
+  line-height: 5px;
+}
+
+.about h4{
+  color: #8E44AD;
+}
+
+.about h1{
+  font-weight: bold;
+}
+
+ion-label{
+  overflow: visible;
+}
+
+.price{
+  width: 50px;
+  height: 23px;
+  border: 1px double gray;
+  border-radius: 5px;
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+.item .item-block button{
+  background-color: #8E44AD;
+  border: 1px gray ;
+  margin-top: 5px;
+  height: 30px;
+  line-height: 9px;
+  color: #f4f4f4;
+  font-weight: bold;
+  border-radius: 5px;
+  overflow: visible;
+}
+
+.text-menu{
+  float: left;
+  width: 40px;
+}
+
+h2{
+  line-height: 6px;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Tidesans;
+}
+
+h3{
+  line-height: 6px;
+  font-size: 15px;
+  font-family: Tidesans;
+}
